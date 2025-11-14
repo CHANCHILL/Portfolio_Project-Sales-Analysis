@@ -97,6 +97,8 @@ Dashboard Image:
 - Category/sub-category performance
 - Product trends & comparative insights
 
+Dashboard Image:
+
 ![](ProductDetails.png)
 
 ---
@@ -113,7 +115,7 @@ The Sales Analysis solution:
 - Streamlined reporting workflows
 - Improved sales tracking accuracy
 - Enabled proactive actions on customer & product performance
-- Delivered a user‑friendly dashboard aligned with business needs
+- User‑friendly dashboard aligned with business needs
 
 ---
 
